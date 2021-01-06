@@ -1,5 +1,5 @@
 # java ile taş_kağıt_makas
-//taskağıtmakas
+
 package tas_kagit_makas;
 
 import java.util.Scanner;
